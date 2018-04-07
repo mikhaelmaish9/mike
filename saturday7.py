@@ -14,7 +14,7 @@ times = num1 / num2
 print(times)
 #the remainder when 403 is divided by 73
 num1 = 403
-num2 = 73
+num2 = 736
 rem = num1 % num2
 print(rem)
 
